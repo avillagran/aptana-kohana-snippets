@@ -7,7 +7,7 @@ bundle 'Kohana Snippets' do |bundle|
 	bundle.menu 'Kohana' do |main_menu|
 	  main_menu.menu 'Controllers' do |submenu|
 	    submenu.command 'controller'
-	    submenu.command 'action'
+	    submenu.command 'Kohana Rails Action'
     end		
 		main_menu.command 'model'
 	end
